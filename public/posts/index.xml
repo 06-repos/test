@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jessie&#39;s Note</title>
+    <link>https://jessie-lee.netlify.app/posts/</link>
+    <description>Recent content in Posts on Jessie&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2020 21:33:41 +1000</lastBuildDate>
+    
+	<atom:link href="https://jessie-lee.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://jessie-lee.netlify.app/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Aug 2020 21:33:41 +1000</pubDate>
+      
+      <guid>https://jessie-lee.netlify.app/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://jessie-lee.netlify.app"
+languageCode = "en-us"
+title = "Jessie's Note"
+theme = "ananke"
